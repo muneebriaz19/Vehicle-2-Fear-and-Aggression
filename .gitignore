@@ -1,0 +1,30 @@
+# Unreal Engine Git Ignore Template
+
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Compiled project files
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# Other
+.vscode/
+*.log
+*.user
+*.DS_Store
+*.pdb
+*.obj
+*.ipch
+
+
+
+ 
